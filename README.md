@@ -1,6 +1,5 @@
 # DocuQuery — Production-Grade AI Document Intelligence Platform
 
-[![CI Pipeline](https://github.com/docuquery/docuquery/actions/workflows/ci.yml/badge.svg)](https://github.com/docuquery/docuquery/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 [![Python: 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-teal.svg)](https://fastapi.tiangolo.com/)
